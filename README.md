@@ -1,5 +1,30 @@
 # Data analysis / Machine learning / Deep learning
 
-1. [banking-analysis kaggle dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets)
+## Banking analysis 
+Exploratory data analysis + prediction models (Random Forest, Ada Boost, XGBoost)
 
-2. [finding-similar-films-using-descriptions-tfidf kaggle dataset](https://www.kaggle.com/shivamb/netflix-shows)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/banking-analysis.ipynb)
+
+[Dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets)
+
+## Find similar movies/tv shows using their short descriptions
+Basic natural language processing (Bag of words, TFidf, similarity matrix, doc2vec)
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/finding-similar-films-using-descriptions-tfidf.ipynb)
+
+[Dataset](https://www.kaggle.com/shivamb/netflix-shows)
+
+## Subreddits classification (Skeptic vs Paranormal posts)
+Count vectorizer and logistic regression
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/skeptic-vs-paranormal-subreddits-logistic-regression.ipynb)
+
+[Dataset](https://gonito.net/gitlist/paranormal-or-skeptic.git/master/)
+
+## Mushroom classification 
+K-nearest neighbors algorithm
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Mushroom-classification-challenge-KNN.ipynb)
+
+[Dataset](https://gonito.net/gitlist/mushrooms.git/master/)
+
