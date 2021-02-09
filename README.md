@@ -28,3 +28,9 @@ K-nearest neighbors algorithm
 
 [Dataset](https://gonito.net/gitlist/mushrooms.git/master/)
 
+## Guess the date of reddits - Large Edition
+TfidfVectorizer, TrunctedSVD decomposition and Linear Regression
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Guess-the-date-of-reddits-large-edition.ipynb)
+
+[Dataset](https://git.wmi.amu.edu.pl/dawjur/guess-reddit-date-sumo.git)
