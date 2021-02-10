@@ -34,3 +34,10 @@ TfidfVectorizer, TrunctedSVD decomposition and Linear Regression
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Guess-the-date-of-reddits-large-edition.ipynb)
 
 [Dataset](https://git.wmi.amu.edu.pl/dawjur/guess-reddit-date-sumo.git)
+
+## Houses price prediction
+Exploratory data analysis + prediction models
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Houses-price-prediction-EDA)
+
+[Dataset](https://gonito.net/gitlist/mieszkania4.git/master)
