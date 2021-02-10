@@ -38,6 +38,6 @@ TfidfVectorizer, TrunctedSVD decomposition and Linear Regression
 ## Houses price prediction
 Exploratory data analysis + prediction models
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Houses-price-prediction-EDA)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Houses-price-prediction-EDA.ipynb)
 
 [Dataset](https://gonito.net/gitlist/mieszkania4.git/master)
