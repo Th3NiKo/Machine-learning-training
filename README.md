@@ -3,21 +3,21 @@
 ## Banking analysis 
 Exploratory data analysis + prediction models (Random Forest, Ada Boost, XGBoost)
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/banking-analysis.ipynb)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Banking-analysis.ipynb)
 
 [Dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets)
 
 ## Find similar movies/tv shows using their short descriptions
 Basic natural language processing (Bag of words, TFidf, similarity matrix, doc2vec)
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/finding-similar-films-using-descriptions-tfidf.ipynb)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Finding-similar-films-using-descriptions-tfidf.ipynb)
 
 [Dataset](https://www.kaggle.com/shivamb/netflix-shows)
 
 ## Subreddits classification (Skeptic vs Paranormal posts)
 Count vectorizer and logistic regression
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/skeptic-vs-paranormal-subreddits-logistic-regression.ipynb)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Skeptic-vs-paranormal-subreddits-logistic-regression.ipynb)
 
 [Dataset](https://gonito.net/gitlist/paranormal-or-skeptic.git/master/)
 
@@ -41,3 +41,10 @@ Exploratory data analysis + prediction models
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Houses-price-prediction-EDA)
 
 [Dataset](https://gonito.net/gitlist/mieszkania4.git/master)
+
+## Cars price prediction
+Data preparation + Random Forest Regressor
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Cars-price-prediction-random-forest)
+
+[Dataset](https://gonito.net/gitlist/auta.git/master)
