@@ -45,6 +45,6 @@ Exploratory data analysis + prediction models
 ## Cars price prediction
 Data preparation + Random Forest Regressor
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Cars-price-prediction-random-forest)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Cars-price-prediction-random-forest.ipynb)
 
 [Dataset](https://gonito.net/gitlist/auta.git/master)
