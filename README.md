@@ -48,3 +48,11 @@ Data preparation + Random Forest Regressor
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Cars-price-prediction-random-forest)
 
 [Dataset](https://gonito.net/gitlist/auta.git/master)
+
+## Stroke prediction
+Unalanced small dataset
+EDA + data preparations (using pipelines), RandomForest
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction)
+
+[Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
