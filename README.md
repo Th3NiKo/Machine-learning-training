@@ -53,6 +53,6 @@ Data preparation + Random Forest Regressor
 Unalanced small dataset
 EDA + data preparations (using pipelines), RandomForest
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction.ipynb)
 
 [Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
