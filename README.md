@@ -1,5 +1,9 @@
 # Data analysis / Machine learning / Deep learning
 
+Database of my notebooks created for learning purposes. 
+
+If u want to use them on your own (using jupyter), you need to adjust data loading path and download datasets on your own.
+
 ## Banking analysis 
 Exploratory data analysis + prediction models (Random Forest, Ada Boost, XGBoost)
 
