@@ -45,7 +45,7 @@ EDA + data preparations (using pipelines), RandomForest
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction.ipynb) | [Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-## US Police Shootings tableau dashboards
+#### US Police Shootings tableau dashboards
 
 <a href="https://github.com/Th3NiKo/Data-analysis-training/blob/main/Images/Dashboard1.png"><img src="https://raw.githubusercontent.com/Th3NiKo/Data-analysis-training/main/Images/Dashboard1.png" width="250"></a>
 <a href="https://github.com/Th3NiKo/Data-analysis-training/blob/main/Images/Dashboard2.png"><img src="https://raw.githubusercontent.com/Th3NiKo/Data-analysis-training/main/Images/Dashboard2.png" width="250"></a>
