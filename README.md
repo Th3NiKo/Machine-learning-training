@@ -47,8 +47,9 @@ EDA + data preparations (using pipelines), RandomForest
 
 #### US Police Shootings tableau dashboards
 
+[Dataset](https://www.kaggle.com/ahsen1330/us-police-shootings)
+
 <a href="https://github.com/Th3NiKo/Data-analysis-training/blob/main/Images/Dashboard1.png"><img src="https://raw.githubusercontent.com/Th3NiKo/Data-analysis-training/main/Images/Dashboard1.png" width="250"></a>
 <a href="https://github.com/Th3NiKo/Data-analysis-training/blob/main/Images/Dashboard2.png"><img src="https://raw.githubusercontent.com/Th3NiKo/Data-analysis-training/main/Images/Dashboard2.png" width="250"></a>
 <a href="https://github.com/Th3NiKo/Data-analysis-training/blob/main/Images/Dashboard3.png"><img src="https://raw.githubusercontent.com/Th3NiKo/Data-analysis-training/main/Images/Dashboard3.png" width="250"></a>
 
-[Dataset](https://www.kaggle.com/ahsen1330/us-police-shootings)
