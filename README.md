@@ -45,6 +45,12 @@ EDA + data preparations (using pipelines), RandomForest
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction.ipynb) | [Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
+#### CNN shapes classification (circle, triangle, square)
+Small dataset (300 images 28 x 28).
+Keras custom CNN, early stopping, decreasing learning rate, model checkpoints
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Keras-shapes-classification.ipynb) | [Dataset](https://www.kaggle.com/cactus3/basicshapes)
+
 #### US Police Shootings tableau dashboards
 
 [Dataset](https://www.kaggle.com/ahsen1330/us-police-shootings)
