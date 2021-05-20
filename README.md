@@ -51,6 +51,11 @@ Keras custom CNN, early stopping, decreasing learning rate, model checkpoints
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Keras-shapes-classification.ipynb) | [Dataset](https://www.kaggle.com/cactus3/basicshapes)
 
+#### Generative adversarial network to create 200x200 coins rgb
+Small custom GAN network 200 epochs for 200 x 200 px images of polish coins. 
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Simple-GAN-generating-coins.ipynb) | [Dataset](https://www.kaggle.com/dataset/3d332f1bb83f393ef0d8b60e014ab57ceffac075365231c065543b5562708909)
+
 #### US Police Shootings tableau dashboards
 
 [Dataset](https://www.kaggle.com/ahsen1330/us-police-shootings)
