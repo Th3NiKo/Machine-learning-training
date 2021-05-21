@@ -1,4 +1,4 @@
-# Data analysis / Machine learning / Deep learning
+# Machine learning / Deep learning / Data analysis
 
 Database of my notebooks created for learning purposes. 
 
