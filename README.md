@@ -4,61 +4,69 @@ Database of my notebooks created for learning purposes.
 
 If u want to use them on your own (using jupyter), you need to **adjust data loading path** and **download datasets** on your own.
 
-#### Banking analysis 
-Exploratory data analysis + prediction models (Random Forest, Ada Boost, XGBoost)
+### Bank client subscription
+*sklearn, pandas, seaborn, xgboost*
+<img src="https://img.shields.io/badge/-EDA-blueviolet"> <img src="https://img.shields.io/badge/-Classification-red">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Banking-analysis.ipynb) | [Dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets)
 
-#### Find similar movies/tv shows using their short descriptions
-Basic natural language processing (Bag of words, TFidf, similarity matrix, doc2vec)
+### Find similar movies using descriptions
+*pandas, nltk, gensim, doc2vec*
+<img src="https://img.shields.io/badge/-NLP-yellow">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Finding-similar-films-using-descriptions-tfidf.ipynb) | [Dataset](https://www.kaggle.com/shivamb/netflix-shows)
 
-#### Subreddits classification (Skeptic vs Paranormal posts)
-Count vectorizer and logistic regression
+### Subreddits classification (Skeptic vs Paranormal posts)
+*pandas, sklearn, CountVectorizer*
+<img src="https://img.shields.io/badge/-NLP-yellow"> <img src="https://img.shields.io/badge/-Classification-red">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Skeptic-vs-paranormal-subreddits-logistic-regression.ipynb) | [Dataset](https://gonito.net/gitlist/paranormal-or-skeptic.git/master/)
 
-#### Mushroom classification 
-K-nearest neighbors algorithm
+### Mushroom classification (poisonous)
+*pandas, sklearn, numpy*
+<img src="https://img.shields.io/badge/-Classification-red">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Mushroom-classification-challenge-KNN.ipynb) | [Dataset](https://gonito.net/gitlist/mushrooms.git/master/)
 
-#### Guess the date of reddits - Large Edition
-TfidfVectorizer, TrunctedSVD decomposition and Linear Regression
+### Guess the date of reddits - Large Edition
+*pandas, sklearn, numpy, CountVectorizer*
+<img src="https://img.shields.io/badge/-NLP-yellow"> <img src="https://img.shields.io/badge/-Regression-green">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Guess-the-date-of-reddits-large-edition.ipynb) | [Dataset](https://git.wmi.amu.edu.pl/dawjur/guess-reddit-date-sumo.git)
 
-#### Houses price prediction
-Exploratory data analysis + prediction models
+### Houses price prediction
+*pandas, sklearn, seaborn, xgboost*
+<img src="https://img.shields.io/badge/-EDA-blueviolet"> <img src="https://img.shields.io/badge/-Regression-green">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Houses-price-prediction-EDA.ipynb) | [Dataset](https://gonito.net/gitlist/mieszkania4.git/master)
 
-#### Cars price prediction
-Data preparation + Random Forest Regressor
+### Cars price prediction
+*pandas, sklearn, numpy*
+<img src="https://img.shields.io/badge/-Regression-green">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Cars-price-prediction-random-forest.ipynb) | [Dataset](https://gonito.net/gitlist/auta.git/master)
 
-#### Stroke prediction
-Unbalanced small dataset
-EDA + data preparations (using pipelines), RandomForest
+### Stroke prediction 
+*pandas, sklearn, seaborn, Pipelines*
+<img src="https://img.shields.io/badge/-EDA-blueviolet"> <img src="https://img.shields.io/badge/-Classification-red">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Stroke-prediction.ipynb) | [Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-#### CNN shapes classification (circle, triangle, square)
-Small dataset (300 images 28 x 28).
-Keras custom CNN, early stopping, decreasing learning rate, model checkpoints
+### Shapes images classification (circle, triangle, square)
+*keras, numpy, matplotlib*
+<img src="https://img.shields.io/badge/-Neural network (CNN)-blue"> <img src="https://img.shields.io/badge/-Classification-red">
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Keras-shapes-classification.ipynb) | [Dataset](https://www.kaggle.com/cactus3/basicshapes)
 
-#### Generative adversarial network to create 200x200 coins rgb
-Small custom GAN network 200 epochs for 200 x 200 px images of polish coins. 
+### Small custom GAN for creating coins pictures
+*keras, numpy, matplotlib*
+<img src="https://img.shields.io/badge/-Neural network (GAN)-blue">
 
-**Warning! File weights 50mb, becuase of images progression saved every epoch!**
+**Warning! File weights 50mb, becuase of images save every epoch!**
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Simple-GAN-generating-coins.ipynb) | [Dataset](https://www.kaggle.com/dataset/3d332f1bb83f393ef0d8b60e014ab57ceffac075365231c065543b5562708909)
 
-#### US Police Shootings tableau dashboards
+### US Police Shootings tableau dashboards
 
 [Dataset](https://www.kaggle.com/ahsen1330/us-police-shootings)
 
