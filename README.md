@@ -87,6 +87,15 @@ If u want to use them on your own (using jupyter), you need to **adjust data loa
 
 ------------
 
+### Captcha solver
+*keras, numpy, matplotlib, opencv*
+
+<img src="https://img.shields.io/badge/-Neural network (CNN)-blue"> <img src="https://img.shields.io/badge/-NLP-yellow">
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Captcha-solver.ipynb) | [Dataset](https://www.kaggle.com/fournierp/captcha-version-2-images)
+
+------------
+
 ### Small custom GAN for creating coins pictures
 *keras, numpy, matplotlib*
 
