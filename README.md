@@ -98,7 +98,7 @@ If u want to use them on your own (using jupyter), you need to **adjust data loa
 ------------
 
 ### Polish monetary classification
-*keras, numpy, matplotlib
+*keras, numpy, matplotlib*
 
 <img src="https://img.shields.io/badge/-Neural network (CNN)-blue"> <img src="https://img.shields.io/badge/-Classification-red">
 
