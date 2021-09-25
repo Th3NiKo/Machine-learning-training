@@ -103,7 +103,18 @@ If u want to use them on your own (using jupyter), you need to **adjust data loa
 
 [Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Captcha-solver.ipynb) | [Dataset](https://www.kaggle.com/fournierp/captcha-version-2-images)
 
+
 ------------
+
+### Polish monetary classification
+*keras, numpy, matplotlib*
+
+<img src="https://img.shields.io/badge/-Neural network (CNN)-blue"> <img src="https://img.shields.io/badge/-Classification-red">
+
+[Repository](https://github.com/Th3NiKo/Polish-monetary-classification) | [Dataset](https://www.kaggle.com/dataset/3d332f1bb83f393ef0d8b60e014ab57ceffac075365231c065543b5562708909)
+
+------------
+
 
 ### Small custom GAN for creating coins pictures
 *keras, numpy, matplotlib*
