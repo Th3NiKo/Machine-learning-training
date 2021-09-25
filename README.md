@@ -83,7 +83,7 @@ If u want to use them on your own (using jupyter), you need to **adjust data loa
 
 <img src="https://img.shields.io/badge/-NLP-yellow"> <img src="https://img.shields.io/badge/-Classification-red">
 
-[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Sentiment-of-covid-tweets.ipynb.ipynb) | [Dataset](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Sentiment-of-covid-tweets.ipynb) | [Dataset](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
 
 ------------
 
