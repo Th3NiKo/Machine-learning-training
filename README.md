@@ -115,6 +115,15 @@ If u want to use them on your own (using jupyter), you need to **adjust data loa
 
 ------------
 
+### Intel image classification
+*keras, numpy, matplotlib*
+
+<img src="https://img.shields.io/badge/-Neural network (CNN)-blue"> <img src="https://img.shields.io/badge/-Classification-red">
+
+[Notebook](https://github.com/Th3NiKo/Data-analysis-training/blob/main/Intel-image-classification.ipynb) | [Dataset](https://www.kaggle.com/puneet6060/intel-image-classification)
+
+------------
+
 
 ### Small custom GAN for creating coins pictures
 *keras, numpy, matplotlib*
